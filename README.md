@@ -57,6 +57,5 @@ button:hover, a:hover {
   </div>
   <p><button>Contact</button></p>
 </div>
-
 </body>
 </html>
