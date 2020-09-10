@@ -1,4 +1,4 @@
-# profile-folder<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -21,7 +21,7 @@ button {
   outline: 0;
   display: inline-block;
   padding: 8px;
-color: white;
+  color: white;
   background-color: #000;
   text-align: center;
   cursor: pointer;
@@ -38,7 +38,6 @@ a {
 button:hover, a:hover {
   opacity: 0.7;
 }
-
 </style>
 </head>
 <body>
@@ -46,15 +45,14 @@ button:hover, a:hover {
 <h2 style="text-align:center">User Profile Card</h2>
 
 <div class="card">
-  <img src="/w3images/team2.jpg" alt="madhu" style="width:100%">
-  <h1>madhubabu</h1>
-  <p class="title">cse
-, studying</p>
-  <p>Harvard jntua</p>
+  <img src="/IMG_20200825_173300-01.jpg" alt="Madhu" style="width:100%">
+  <h1>Madhu Babu</h1>
+  <p class="title">Studying, computer science & engineering</p>
+  <p>JNTUA</p>
   <div style="margin: 24px 0;">
     <a href="#"><i class="fa fa-dribbble"></i></a> 
-    <a href="#"><i class="fa fa-twitter"></i></a> 
- href="#"><i class="fa fa-linkedin"></i></a>  
+    <a href="#"><i class="fa fa-twitter"></i></a>  
+    <a href="#"><i class="fa fa-linkedin"></i></a>  
     <a href="#"><i class="fa fa-facebook"></i></a> 
   </div>
   <p><button>Contact</button></p>
