@@ -47,8 +47,9 @@ button:hover, a:hover {
 
 <div class="card">
   <img src="/w3images/team2.jpg" alt="madhu" style="width:100%">
-  <h1>John Doe</h1>
-  <p class="title">madhubabu, studying</p>
+  <h1>madhubabu</h1>
+  <p class="title">cse
+, studying</p>
   <p>Harvard jntua</p>
   <div style="margin: 24px 0;">
     <a href="#"><i class="fa fa-dribbble"></i></a> 
